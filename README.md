@@ -1,4 +1,4 @@
-This a suspected Windows kernel local privilege escalation 0day from the Hacking Team archive (email [here](https://wikileaks.org/hackingteam/emails/emailid/974752)). It was developed by Eugene Ching / Qavar security. Original contents below:
+This an exploit for CVE-2015-2387 (MS-077), a Windows kernel local privilege escalation 0day from the Hacking Team archive (email [here](https://wikileaks.org/hackingteam/emails/emailid/974752)). It was developed by Eugene Ching / Qavar security. Original contents below:
 
 Summary.
 ======== 
